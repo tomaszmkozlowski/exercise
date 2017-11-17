@@ -1,1 +1,1 @@
-### Interview exercises with tests
+### Exercises with tests

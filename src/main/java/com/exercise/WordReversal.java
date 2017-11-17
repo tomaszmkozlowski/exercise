@@ -1,4 +1,4 @@
-package com.comcast.exercise;
+package com.exercise;
 
 import java.util.Arrays;
 import java.util.Collections;

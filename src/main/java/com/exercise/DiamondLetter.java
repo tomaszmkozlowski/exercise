@@ -1,4 +1,4 @@
-package com.comcast.exercise;
+package com.exercise;
 
 public class DiamondLetter {
     public static String[] generateDiamondLetter(char letter) {
